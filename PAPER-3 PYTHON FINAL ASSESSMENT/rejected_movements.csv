@@ -1,0 +1,5 @@
+sku,type,units,reason
+P01,OUT,9,Insufficient stock
+P99,IN,5,Unknown SKU
+P02,HOLD,2,Invalid movement type
+P02,OUT,0,Units must be a positive integer

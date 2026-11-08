@@ -1,0 +1,14 @@
+[
+  {
+    "product_id": "P1",
+    "name": "Laptop Stand",
+    "price": 100,
+    "stock": 5
+  },
+  {
+    "product_id": "P2",
+    "name": "Mechanical Keyboard",
+    "price": 250,
+    "stock": 10
+  }
+]
